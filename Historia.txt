@@ -3,3 +3,5 @@
     Fecha de terminacion de aprendizaje: "Nulo" 
 
     En camara parece feo pero en realidad es simpatico
+
+    Actualmente estoy en el 8 semestre de ingenieria en sistemas
